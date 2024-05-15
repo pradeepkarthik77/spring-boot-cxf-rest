@@ -34,7 +34,9 @@
     </jaxrs:features>
   </jaxrs:server>
    -->
+  <!-- 
   <bean id="exampleServiceResource" class="com.example.demo.ExampleServiceResource">
   </bean>
+  -->
 
 </beans>
